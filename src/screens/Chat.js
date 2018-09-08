@@ -1,5 +1,5 @@
 import React from "react";
-import * as firebase from "firebase";
+import firebase from "firebase";
 import {GiftedChat} from 'react-native-gifted-chat'
 import {Body, Button, Header, Icon, Left, Right, Title} from "native-base";
 import {SafeAreaView} from "react-native";

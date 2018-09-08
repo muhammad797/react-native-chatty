@@ -5,7 +5,6 @@ import config from "../config/firebase";
 
 export default class Splash extends React.Component {
 
-
     constructor(props) {
         super(props);
 
